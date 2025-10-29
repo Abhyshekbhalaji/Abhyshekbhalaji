@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhyshekbhalaji&icon=2&color=12" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=Abhyshekbhalaji&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views"/>
 </p>
 
 ---
