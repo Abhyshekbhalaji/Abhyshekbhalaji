@@ -69,7 +69,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhyshekbhalaji&icon=2&color=12" alt="Profile Views" />
   <img src="https://komarev.com/ghpvc/?username=Abhyshekbhalaji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
