@@ -114,8 +114,8 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji&theme=transparent"/>
 </div>
 
 <div align="center">
