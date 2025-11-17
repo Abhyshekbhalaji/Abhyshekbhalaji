@@ -114,16 +114,16 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhyshekbhalaji&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhyshekbhalaji" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji" alt="GitHub Trophies"/>
 </div>
 
 ---
