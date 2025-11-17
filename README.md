@@ -18,12 +18,11 @@
 const abhyshek = {
   location: "Chennai, India 🇮🇳",
   education: "B.Tech in Biotechnology @ SASTRA University",
-  currentFocus: ["DApps", "Graph Algorithms", "System Design"],
+  currentFocus: ["React native", "Typescript", "System Design"],
   openSource: "Hacktoberfest Level 3 Contributor 🏆",
   
-  askMeAbout: [
-    "React/Next.js Architecture",
-    "Learning Typescript and React native", 
+   openToWorkOn: [
+    "React/Next.js",
     "Open Source Contribution"
   ],
   
