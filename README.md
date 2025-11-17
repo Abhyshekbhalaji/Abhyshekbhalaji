@@ -74,9 +74,9 @@ const abhyshek = {
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com)
 [![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://github.com)
 
-Full-stack cloud storage with **secure file management**, **real-time sync**, and **15% faster load times**
+Full-stack cloud storage with **secure file management** and **real-time sync**
 
-[View Repository →](https://github.com/Abhyshekbhalaji)
+[View Repository →](https://github.com/Abhyshekbhalaji/store_it)
 
 </div>
 
