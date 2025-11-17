@@ -123,7 +123,7 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji&theme=transparent" alt="GitHub Trophies"/>
 </div>
 
 ---
