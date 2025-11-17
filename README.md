@@ -23,8 +23,7 @@ const abhyshek = {
   
   askMeAbout: [
     "React/Next.js Architecture",
-    "TypeScript Best Practices", 
-    "Performance Optimization",
+    "Learning Typescript and React native", 
     "Open Source Contribution"
   ],
   
