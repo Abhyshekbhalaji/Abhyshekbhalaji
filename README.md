@@ -118,11 +118,7 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhyshekbhalaji&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div>
 
 <div align="center">
 
