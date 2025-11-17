@@ -114,16 +114,20 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhyshekbhalaji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyshekbhalaji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhyshekbhalaji" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhyshekbhalaji&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji&theme=transparent" alt="GitHub Trophies"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhyshekbhalaji&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -145,20 +149,22 @@ Full-stack cloud storage with **secure file management**, **real-time sync**, an
 ### 💭 Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhyshekbhalaji/Abhyshekbhalaji/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhyshekbhalaji/Abhyshekbhalaji/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhyshekbhalaji/Abhyshekbhalaji/output/github-contribution-grid-snake.svg">
-</picture>
+### 📈 Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=Abhyshekbhalaji&theme=tokyo-night&hide_border=true&area=true)
 
 ### 📈 Profile Views
 ![](https://komarev.com/ghpvc/?username=Abhyshekbhalaji&color=blueviolet&style=for-the-badge&label=VISITORS)
 
+</div>
+
 ---
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b5f-4ed8-b85a-bdd6ee47e80c.gif" width="100%">
 
-**✨ "Building scalable, performant, and human-centered web experiences" ✨**
+### ✨ *"Building scalable, performant, and human-centered web experiences"* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
