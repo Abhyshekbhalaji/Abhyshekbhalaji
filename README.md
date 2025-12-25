@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Abhyshek Bhalaji
+#  Abhyshek Bhalaji
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Open+Source+Contributor;Full+Stack+Developer;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
@@ -12,21 +12,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+##  About Me
 
 ```typescript
 const abhyshek = {
   location: "Chennai, India 🇮🇳",
   education: "B.Tech in Biotechnology @ SASTRA University",
   currentFocus: ["React native", "Typescript", "System Design"],
-  openSource: "Hacktoberfest Level 3 Contributor 🏆",
+  openSource: "Hacktoberfest Level 3 Contributor ",
   
    openToWorkOn: [
     "React/Next.js",
     "Open Source Contribution"
   ],
   
-  funFact: "Started in Biotech 🧬, fell in love with code 💻"
+  funFact: "Started in Biotech , fell in love with code "
 };
 ```
 
@@ -37,7 +37,7 @@ const abhyshek = {
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🌟 Open Source Contributor — Hacktoberfest Level 3</b></summary>
+<summary><b> Open Source Contributor — Hacktoberfest Level 3</b></summary>
 <br>
 
 **Oct 2024 – Present** | Remote
@@ -49,24 +49,24 @@ const abhyshek = {
 </details>
 
 <details>
-<summary><b>💻 Software Engineer Intern @ Cognizant</b></summary>
+<summary><b> Software Engineer Intern @ Cognizant</b></summary>
 <br>
 
 **Dec 2023 – Mar 2024** | Chennai, TN
 
-- ⚡ Optimized REST APIs → **25% performance boost**
-- 🐛 Identified 20+ critical bugs across Amazon/Alibaba platforms
-- 🗄️ Reduced SQL query execution time by **20%**
+-  Optimized REST APIs → **25% performance boost**
+-  Identified 20+ critical bugs across Amazon/Alibaba platforms
+-  Reduced SQL query execution time by **20%**
 
 </details>
 
 ---
 
-## 🎯 Featured Project
+##  Featured Project
 
 <div align="center">
 
-### 📦 Store It — Cloud Storage Platform
+###  Store It — Cloud Storage Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com)
@@ -80,7 +80,7 @@ Full-stack cloud storage with **secure file management** and **real-time sync**
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Full-stack cloud storage with **secure file management** and **real-time sync**
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -140,13 +140,13 @@ Full-stack cloud storage with **secure file management** and **real-time sync**
 
 <div align="center">
 
-### 💭 Developer Quote
+###  Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📈 Contribution Activity
+### Contribution Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Abhyshekbhalaji&theme=tokyo-night&hide_border=true&area=true)
 
-### 📈 Profile Views
+###  Profile Views
 ![](https://komarev.com/ghpvc/?username=Abhyshekbhalaji&color=blueviolet&style=for-the-badge&label=VISITORS)
 
 </div>
@@ -157,7 +157,7 @@ Full-stack cloud storage with **secure file management** and **real-time sync**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b5f-4ed8-b85a-bdd6ee47e80c.gif" width="100%">
 
-### ✨ *"Building scalable, performant, and human-centered web experiences"* ✨
+###  *"Building scalable, performant, and human-centered web experiences"* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
