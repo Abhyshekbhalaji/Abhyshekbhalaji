@@ -22,8 +22,7 @@ const abhyshek = {
   openSource: "Hacktoberfest Level 3 Contributor ",
   
    openToWorkOn: [
-    "React/Next.js",
-    "Open Source Contribution"
+    "React/Next.js"
   ],
   
   funFact: "Started in Biotech , fell in love with code "
@@ -42,9 +41,9 @@ const abhyshek = {
 
 **Oct 2024 – Present** | Remote
 
-- 🔧 **Kestra**: Refactored Vue.js split panel architecture with TypeScript
-- 🛠️ **Requestly**: Built API Client History Panel with React & localStorage
-- 📚 **Meteor.js**: Enhanced documentation and cleaned DDP package
+-  **Kestra**: Refactored Vue.js split panel architecture with TypeScript
+-  **Requestly**: Built API Client History Panel with React & localStorage
+-  **Meteor.js**: Enhanced documentation and cleaned DDP package
 
 </details>
 
